@@ -1,4 +1,4 @@
-### Olá, eu sou a Amanda Arissa Miho
+### Hii, I'm Amanda Arissa Miho
 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: www.linkedin.com/in/amanda-arissa-miho
