@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: www.linkedin.com/in/amanda-arissa-miho
-- 😄 Pronouns: She/Her
 
 <div>
   <a href="https://github.com/amandamiho">
