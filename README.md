@@ -1,14 +1,14 @@
 <h2> Hii, I'm Amanda Arissa Miho! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br />
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-
-width="400px" width="400px" align="right">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things%20<3&font=Fira%20Code&center=true&width=440&height=45&color=FF79C6&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-
+width="400px" width="400px" align="right">
 
 >- 🌱 I’m currently learning Javascript
 >- 📫 How to reach me: www.linkedin.com/in/amanda-arissa-miho
