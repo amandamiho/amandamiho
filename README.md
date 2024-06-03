@@ -7,14 +7,12 @@
 </p>
 
 
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: www.linkedin.com/in/amanda-arissa-miho
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-
+width="400px" width="400px" align="right">
 
-<div>
-  <a href="https://github.com/amandamiho">
-  <img width="400" height="170em" src="https://github-readme-stats.vercel.app/api?username=AmandaMiho&theme=omni&show_icons=true&include_all_commits=true&count_private=true">
-  <img width="400" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaMIho&layout=compact&langs_count=16&theme=omni"/>
-</div>
+>- 🌱 I’m currently learning Javascript
+>- 📫 How to reach me: www.linkedin.com/in/amanda-arissa-miho
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
